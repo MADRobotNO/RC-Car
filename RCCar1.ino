@@ -1,3 +1,4 @@
+//Created by Martin Agnar Dahl for MAD Robot
 
 #include <RH_ASK.h> // library for RC
 #include <SPI.h> // library for RC
