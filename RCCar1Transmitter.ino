@@ -1,3 +1,5 @@
+//Created by Martin Agnar Dahl for MAD Robot
+
 #include <RH_ASK.h>
 #include <SPI.h> 
 
